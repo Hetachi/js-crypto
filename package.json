@@ -1,0 +1,22 @@
+{
+  "name": "js-crypto",
+  "version": "1.0.0",
+  "description": "A javascript crypto blockchain poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hetachi/js-crypto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hetachi/js-crypto/issues"
+  },
+  "homepage": "https://github.com/Hetachi/js-crypto#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
